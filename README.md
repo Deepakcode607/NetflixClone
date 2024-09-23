@@ -1,2 +1,1 @@
-bharat intern task
-by:- Deepak
+NETFLIX CLONE USING HTML,CSS, JAVASCRIPT, BOOTSTRAP 
